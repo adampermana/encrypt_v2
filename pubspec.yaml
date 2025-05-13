@@ -1,7 +1,8 @@
 name: encrypt
-version: 5.0.4
+version: 6.0.0
 description: A set of high-level APIs over PointyCastle for two-way cryptography.
-repository: https://github.com/leocavalcante/encrypt
+repository: https://github.com/adampermana/encrypt_v2.git
+issue_tracker: https://github.com/adampermana/encrypt_v2/issues
 
 executables:
   secure-random:

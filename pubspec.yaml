@@ -13,8 +13,8 @@ environment:
 dependencies:
   args: ^2.7.0
   asn1lib: ^1.5.8
-  clock: ^1.1.2
-  collection: ^1.19.1
+  clock: ^1.1.1
+  collection: ^1.18.0
   crypto: ^3.0.6
   pointycastle: ^4.0.0
 

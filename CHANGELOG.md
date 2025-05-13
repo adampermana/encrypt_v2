@@ -1,3 +1,6 @@
+# 6.0.0
+- fix: update part directives and improve pubspec.yaml dependencies
+
 # 5.0.4
 
 - Force Pointycastle version
